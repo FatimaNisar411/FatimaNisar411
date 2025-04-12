@@ -22,10 +22,11 @@ Currently exploring freelance projects and seeking a summer internship.
 
 ---
 
-### 🔥 Projects I’m working on
-- **Steganography Detector:** Detect hidden data in images/files  
-- **Shaatir Bili:** A game using AI algorithms  
-- **Hard Disk Encryptor:** Tool for encrypting data on hard drives
+### 🔥 Projects I’m working on  
+- **[Steganography Detector](https://github.com/FatimaNisar411/LSB_steganography_detector):** Detect hidden data in images/files  
+- **[Shaatir Bili](https://github.com/shaatir-billi/game):** A game using AI algorithms  
+- **[Hard Disk Encryptor](https://github.com/FatimaNisar411/Hard-Disk-Encryptor):** Tool for encrypting data on hard drives  
+
 
 ---
 
